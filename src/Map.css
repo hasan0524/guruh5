@@ -1,0 +1,26 @@
+*{
+    font-size: 12 px;
+}
+body{
+    padding: 100px;
+}
+
+table,
+th,
+tr,
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+table{
+    width: 100%;
+}
+tr:nth-child(even){
+    background-color: #cec2c2dc;
+}
+.email{
+    color: rgb(238, 8, 65);
+    cursor: pointer;
+}

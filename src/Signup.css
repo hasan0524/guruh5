@@ -1,0 +1,30 @@
+.p4{margin: 50px;
+    border: 1px solid red;
+    width: 400px;
+}
+.q1{color: white;
+    margin: 50px;
+    width: 250px;
+    height: 450px;
+    border-top-left-radius:45px ;
+    border-bottom-right-radius:45px ;
+    border: 2px solid  rebeccapurple;
+    background-color: rgb(55, 82, 165);
+}
+.d2{
+    margin-left:20px ;
+}
+.f4{
+    color: white;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+.W3{
+    margin-left: 30%;
+}
+.l1{
+    color: black;
+}
+.c{
+    color: blue;
+}
