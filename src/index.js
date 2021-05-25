@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // /simport reportWebVitals from './reportWebVitals';
 import  Render from  './Render'
-import App from './App'
+import Lola from './App'
 
 import Signup from './Signup'
 // import './Signup.css'
@@ -15,7 +15,7 @@ import Signup from './Signup'
 
 ReactDOM.render(
   <React.StrictMode>
-     <App/>
+     <Lola/>
   </React.StrictMode>,
   document.getElementById('root')
 );
