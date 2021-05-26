@@ -4,7 +4,7 @@ export default class Form extends Component {
     render() {
         return (
             <Container>
-                <Title>confirm invitation</Title>
+                <Title>matn butunlay  o'zgardi</Title>
             </Container>
         )
     }
